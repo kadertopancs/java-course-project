@@ -1,6 +1,5 @@
-package task1;
+package week1.task1;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class EarthquakeScale {
