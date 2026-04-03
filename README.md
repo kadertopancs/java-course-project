@@ -1,23 +1,26 @@
 # Java Course Projects
 
-This repository contains my Week 1 Java course projects focused on conditional statements.
+This repository contains a collection of Java-based projects developed progressively throughout my learning journey. It includes fundamental programming exercises as well as upcoming test automation implementations.
 
-## 📌 Content
+## 📌 Scope
 
-Week 1 topics:
-
-- if-else statements
-- Basic console applications
-- Simple logical conditions
-
-All tasks are organized under the src directory.
+- Core Java programming (variables, control flow, loops)
+- Data structures and collections
+- Algorithm development and problem solving
+- Console-based applications
+- Upcoming: Test automation practices (Selenium, API testing)
 
 ## 🎯 Purpose
 
-The purpose of this repository is to practice fundamental Java concepts and improve logical thinking skills.
+The goal of this repository is to build a strong software development foundation and transition into test automation by applying Java in real-world scenarios.
 
 ## 🛠 Technologies
 
 - Java
 - IntelliJ IDEA
 - Git & GitHub
+- (Upcoming) Selenium, REST API Testing
+
+## 🔄 Status
+
+This repository is actively maintained and updated weekly with new exercises, projects, and future automation implementations.
